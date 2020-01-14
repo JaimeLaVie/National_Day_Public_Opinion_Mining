@@ -1,0 +1,1 @@
+[('Hong', 132), ('Kong', 132), ('in', 66), ('Marks', 66), ('📰', 66), ('‘Day', 66), ('of', 66), ('As', 66), ('News:\x00\x001.', 66), ('En…', 66), ('#FalunDafaRally', 66), ('Protests', 66), ('China', 66), ('#NationalDay\x002.', 66), ('@EpochTimes:', 66), ('Top', 66), ("Today's", 66), ('Grief’', 66), ('to', 66)]

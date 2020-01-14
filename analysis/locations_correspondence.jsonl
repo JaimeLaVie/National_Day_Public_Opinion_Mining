@@ -1,0 +1,1353 @@
+{"name": "Beijing", "location": "China"}
+{"name": "ZunYi", "location": "China"}
+{"name": "Shantou", "location": "China"}
+{"name": "Hangzhou", "location": "China"}
+{"name": "Shanghai", "location": "China"}
+{"name": "Jiangxi", "location": "China"}
+{"name": "Hong Kong", "location": "China"}
+{"name": "Macau", "location": "China"}
+{"name": "Taiwan", "location": "China"}
+{"name": "China", "location": "China"}
+{"name": "北京", "location": "China"}
+{"name": "广州", "location": "China"}
+{"name": "江苏", "location": "China"}
+{"name": "香港", "location": "China"}
+{"name": "台北", "location": "China"}
+{"name": "台湾", "location": "China"}
+{"name": "台灣", "location": "China"}
+{"name": "中国", "location": "China"}
+{"name": "中华人民共和国", "location": "China"}
+{"name": "东八区", "location": "China"}
+{"name": "共匪国", "location": "China"}
+{"name": "Pakistan", "location": "Pakistan"}
+{"name": "Islamabad", "location": "Pakistan"}
+{"name": "Edgefield", "location": "United Kingdom"}
+{"name": "Yorkshire", "location": "United Kingdom"}
+{"name": "Winston-Salem", "location": "United States"}
+{"name": "Des Moines", "location": "United States"}
+{"name": "Colorado", "location": "United States"}
+{"name": "New Haven", "location": "United States"}
+{"name": "California", "location": "United States"}
+{"name": "Murfreesboro", "location": "United States"}
+{"name": "Troy", "location": "United States"}
+{"name": "Baltimore", "location": "United States"}
+{"name": "Columbia", "location": "United States"}
+{"name": "Atlanta", "location": "United States"}
+{"name": "Honolulu", "location": "United States"}
+{"name": "Port Chester", "location": "United States"}
+{"name": "South Bend", "location": "United States"}
+{"name": "Saint Paul", "location": "United States"}
+{"name": "Kansas City", "location": "United States"}
+{"name": "United States", "location": "United States"}
+{"name": "USA", "location": "United States"}
+{"name": "Sydney", "location": "Australia"}
+{"name": "Australia", "location": "Australia"}
+{"name": "Deutschland", "location": "Germany"}
+{"name": "Ontario", "location": "Canada"}
+{"name": "Toronto", "location": "Canada"}
+{"name": "Canada", "location": "Canada"}
+{"name": "泰国", "location": "Thailand"}
+{"name": "大阪", "location": "Japan"}
+{"name": "札幌", "location": "Japan"}
+{"name": "北海道", "location": "Japan"}
+{"name": "日本", "location": "Japan"}
+{"name": "Osaka", "location": "Japan"}
+{"name": "JAPAN", "location": "Japan"}
+{"name": "Japan", "location": "Japan"}
+{"name": "Fiumicino", "location": "Italy"}
+{"name": "Carrara", "location": "Italy"}
+{"name": "Korea", "location": "Korea"}
+{"name": "Dubai", "location": "United Arab Emirates"}
+{"name": "UAE", "location": "United Arab Emirates"}
+{"name": "Madagascar", "location": "Madagascar"}
+{"name": "Yunjae's bedroom", "location": "Korea"}
+{"name": "196", "location": "NotACountry"}
+{"name": "Asia", "location": "NotACountry"}
+{"name": "Tulsa", "location": "United States"}
+{"name": "Tokyo", "location": "Japan"}
+{"name": "Los Angeles", "location": "United States"}
+{"name": "\u6ec5\u5171\u5c0f\u7d44", "location": "China"}
+{"name": "Aichi", "location": "Japan"}
+{"name": "London", "location": "United Kingdom"}
+{"name": "\u6c96\u7e04", "location": "Japan"}
+{"name": "Galaxy", "location": "NotACountry"}
+{"name": "Vanuatu", "location": "Vanuatu"}
+{"name": "United Kingdom", "location": "United Kingdom"}
+{"name": "\u95c7\u306b\u5815\u3061\u3066\u899a\u9192\u3057\u305f\u30db\u30f3\u30b8\u30a7\u3001\u90aa\u9b54\u3059\u308b\u306a\uff01\u8cb4\u69d8\u3089\u3001\u6bba\u3059\u305e", "location": "Japan"}
+{"name": "Pittsville", "location": "United States"}
+{"name": "asgardia", "location": "NotACountry"}
+{"name": "Phoenix", "location": "United States"}
+{"name": "Central Coast", "location": "Australia"}
+{"name": "France", "location": "France"}
+{"name": "CA", "location": "United States"}
+{"name": "Vancouver", "location": "Canada"}
+{"name": "\u5357\u4eac", "location": "China"}
+{"name": "NewYork", "location": "United States"}
+{"name": "NY", "location": "United States"}
+{"name": "\u6fb3\u9580", "location": "China"}
+{"name": "\u8f9b\u5fb7\u5229\u4e9a\u738b\u56fd", "location": "NotACountry"}
+{"name": "\ud835\udc40\ud835\udc4e\ud835\udc5f\ud835\udc60", "location": "NotACountry"}
+{"name": "Switzerland", "location": "Switzerland"}
+{"name": "apne ap me.", "location": "NotACountry"}
+{"name": "44.573218,129.628089", "location": "China"}
+{"name": "Vietnam", "location": "Vietnam"}
+{"name": "\u6d66\u306e\u661f\u5973\u5b66\u9662", "location": "Japan"}
+{"name": "GA", "location": "United States"}
+{"name": "\u611b\u77e5\u770c", "location": "Japan"}
+{"name": "Thai", "location": "Thailand"}
+{"name": "\u0e21\u0e32\u0e08\u0e32\u0e01\u0e42\u0e0b\u0e25 \u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49\u0e2b\u0e25\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e01\u0e39\u0e0b\u0e39", "location": "NotACountry"}
+{"name": "Shandong", "location": "China"}
+{"name": "\u0411\u0443\u0440\u044f\u0442\u0438\u044f", "location": "Russia"}
+{"name": "\u0e2d.\u0e2a\u0e30\u0e40\u0e14\u0e32, \u0e08.\u0e2a\u0e07\u0e02\u0e25\u0e32", "location": "Thailand"}
+{"name": "\u6771\u4eac", "location": "Japan"}
+{"name": "chittaphon world", "location": "NotACountry"}
+{"name": "hong kong", "location": "China"}
+{"name": "Singapore", "location": "Singapore"}
+{"name": "Love Maze", "location": "NotACountry"}
+{"name": "\u76d0\u57ce", "location": "China"}
+{"name": "\u5922\u306e\u4e2d", "location": "Japan"}
+{"name": "VRChat", "location": "NotACountry"}
+{"name": "\u9b54\u90fd", "location": "China"}
+{"name": "\u4e1c\u80dc\u795e\u5dde \u50b2\u6765\u56fd", "location": "China"}
+{"name": "Tonga", "location": "Tonga"}
+{"name": "\ud83c\udde8\ud83c\uddf3", "location": "China"}
+{"name": "39.54691,116.702481", "location": "China"}
+{"name": "Ordos", "location": "China"}
+{"name": "United Arab Emirates", "location": "United Arab Emirates"}
+{"name": "PA", "location": "United States"}
+{"name": "Everywhere", "location": "NotACountry"}
+{"name": "The World", "location": "NotACountry"}
+{"name": "riyadh", "location": "Saudi Arabia"}
+{"name": "\u0e14\u0e32\u0e27\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23\u0e17\u0e35\u0e48\u0e21\u0e35\u0e41\u0e15\u0e48\u0e40\u0e23\u0e32\u0e2a\u0e2d\u0e07\u0e04\u0e19", "location": "NotACountry"}
+{"name": "Guangdong", "location": "China"}
+{"name": "\u82cf\u5dde", "location": "China"}
+{"name": "New Zealand", "location": "New Zealand"}
+{"name": "I'm HERE!", "location": "NotACountry"}
+{"name": "\u79cd\u82b1\u5bb6", "location": "China"}
+{"name": "\u30ba\u30fc\u30c8\u30d4\u30a2\u6e58\u5357", "location": "Japan"}
+{"name": "\u90d1\u5dde", "location": "China"}
+{"name": "bujumbura", "location": "Burundi"}
+{"name": "Phitsanulok", "location": "Thailand"}
+{"name": "NJ", "location": "United States"}
+{"name": "\u3059\u306a", "location": "Japan"}
+{"name": "Atlantis", "location": "NotACountry"}
+{"name": "Melbourne", "location": "Australia"}
+{"name": "Yemen", "location": "Yemen"}
+{"name": "\u0420\u043e\u0441\u0441\u0438\u044f", "location": "Russia"}
+{"name": "\u0e41\u0e16\u0e27\u0e19\u0e35\u0e49\u0e41\u0e2b\u0e25\u0e48\u0e30", "location": "NotACountry"}
+{"name": "THAILAND", "location": "Thailand"}
+{"name": "beijing", "location": "China"}
+{"name": "\ub300\ud55c\ubbfc\uad6d", "location": "Korea"}
+{"name": "Iran", "location": "Iran"}
+{"name": "HK", "location": "China"}
+{"name": "\u4e0a\u6d77", "location": "China"}
+{"name": "Montr\u00e9al", "location": "Canada"}
+{"name": "Rome", "location": "Italy"}
+{"name": "M\u00e9xico", "location": "Mexico"}
+{"name": "Kashmir", "location": "NotACountry"}
+{"name": "Hrvatska", "location": "Hrvatska"}
+{"name": "Nigeria", "location": "Nigeria"}
+{"name": "\u56db\u5ddd", "location": "China"}
+{"name": "Washington", "location": "United States"}
+{"name": "\u80a5\u5b85", "location": "China"}
+{"name": "Latinoamerica", "location": "NotACountry"}
+{"name": "\u5730\u7403", "location": "China"}
+{"name": "bupt", "location": "China"}
+{"name": "Kazakhstan", "location": "Kazakhstan"}
+{"name": "Mali", "location": "Mali"}
+{"name": "Santa Catarina", "location": "Brazil"}
+{"name": "KOREA", "location": "Korea"}
+{"name": "pattaya", "location": "Thailand"}
+{"name": "YunJae", "location": "Korea"}
+{"name": "Shenzhen", "location": "China"}
+{"name": "\u5df4\u9ece", "location": "France"}
+{"name": "\ud558\ub178\uc774", "location": "Vietnam"}
+{"name": "\u6d4e\u5357", "location": "China"}
+{"name": "PRC", "location": "China"}
+{"name": "\u6842\u6797", "location": "China"}
+{"name": "Himalaya", "location": "China"}
+{"name": "thailand", "location": "Thailand"}
+{"name": "San francisco", "location": "United States"}
+{"name": "in the shadow of His wings", "location": "NotACountry"}
+{"name": "Myanmar", "location": "Myanmar"}
+{"name": "NAnking", "location": "China"}
+{"name": "Zhejiang", "location": "China"}
+{"name": "nakhonrajsrima", "location": "Thailand"}
+{"name": "Berlin", "location": "Germany"}
+{"name": "\u798f\u5dde", "location": "China"}
+{"name": "\u6b66\u6f22", "location": "China"}
+{"name": "American Samoa", "location": "United States"}
+{"name": "Mars", "location": "NotACountry"}
+{"name": "23.5\u00b0N \u9ec4\u91d1\u7389\u7c73\u5e26", "location": "NotACountry"}
+{"name": "Sweden", "location": "Sweden"}
+{"name": "\u9ec4\u57d4", "location": "China"}
+{"name": "\u4f26\u6566", "location": "United Kingdom"}
+{"name": "Bucure\u015fti", "location": "Romania"}
+{"name": "Z\u00fcrich", "location": "Switzerland"}
+{"name": "Fujian", "location": "China"}
+{"name": "\u4e09\u4e9a", "location": "China"}
+{"name": "Panama", "location": "Panama"}
+{"name": "melbourne", "location": "Australia"}
+{"name": "Palestine", "location": "Palestine"}
+{"name": "\u6d1b\u6749\u77f6", "location": "United States"}
+{"name": "\u6c60\u888b", "location": "Japan"}
+{"name": "\u6e2f\u72ec", "location": "China"}
+{"name": "\u8fea\u62dc", "location": "United Arab Emirates"}
+{"name": "PanicStation", "location": "NotACountry"}
+{"name": "Nanjing", "location": "China"}
+{"name": "Norwich", "location": "United Kingdom"}
+{"name": "everywhere", "location": "NotACountry"}
+{"name": "\u4e39\u4e1c", "location": "China"}
+{"name": "\u6a2a\u6d5c", "location": "Japan"}
+{"name": "paris", "location": "France"}
+{"name": "\u76bf\u716e\u706f\u5854\u62a5\u5e9f\u5382", "location": "China"}
+{"name": "Espa\u00f1a", "location": "Spain"}
+{"name": "\u4e2d\u83ef\u6c11\u570b", "location": "China"}
+{"name": "Hunan", "location": "China"}
+{"name": "\u5f00\u666e\u52d2B\u7c7b\u5730\u884c\u661f", "location": "China"}
+{"name": "\u5929\u671d", "location": "China"}
+{"name": "Fuvahmulah", "location": "Maldives"}
+{"name": "Brazil", "location": "Brazil"}
+{"name": "Cakung, Indonesia", "location": "Indonesia"}
+{"name": "\u304a\u307e", "location": "Japan"}
+{"name": "\u4e0d\u4e39", "location": "Bhutan"}
+{"name": "LA", "location": "United States"}
+{"name": "San Francisco", "location": "United States"}
+{"name": "Yunjae", "location": "Korea"}
+{"name": "Spain", "location": "Spain"}
+{"name": "antarctica", "location": "NotACountry"}
+{"name": "vagabond \u524d\u79d12\u72af(\u30a2\u30ab\u30a6\u30f3\u30c8\u51cd\u7d50)", "location": "NotACountry"}
+{"name": "\u30d1\u30bd\u30b3\u30f3\u30c7\u30b9\u30af", "location": "NotACountry"}
+{"name": "\u592a\u967d\u7cfb", "location": "China"}
+{"name": "\u7231\u7238\u5988", "location": "China"}
+{"name": "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23", "location": "Thailand"}
+{"name": "\ud83c\uddfa\ud83c\uddf8", "location": "United States"}
+{"name": "Sichuan", "location": "China"}
+{"name": "IL", "location": "United States"}
+{"name": "\u795e\u5948\u5ddd", "location": "Japan"}
+{"name": "\u5c71\u4e1c", "location": "China"}
+{"name": "\u7d4c\u6e08", "location": "Japan"}
+{"name": "\u65b0\u9078\u7d44\u5c6f\u6240", "location": "Japan"}
+{"name": "\u4eac\u90fd", "location": "Japan"}
+{"name": "Jiangsu", "location": "China"}
+{"name": "china", "location": "China"}
+{"name": "CHINA", "location": "China"}
+{"name": "\u0e01\u0e25\u0e38\u0e48\u0e21\u0e14\u0e32\u0e27\u0e41\u0e04\u0e2a\u0e0b\u0e34\u0e42\u0e2d\u0e40\u0e1b\u0e35\u0e22", "location": "Thailand"}
+{"name": "\u5e7b\u60f3\u90f7", "location": "China"}
+{"name": "Hokkaido", "location": "Japan"}
+{"name": "\u4e5f\u95e8", "location": "Yemen"}
+{"name": "Ohio", "location": "United States"}
+{"name": "Cassiopeia", "location": "NotACountry"}
+{"name": "\u65b0\u52a0\u5761", "location": "Singapore"}
+{"name": "Yunnan", "location": "China"}
+{"name": "Earth", "location": "NotACountry"}
+{"name": "Liaoning", "location": "China"}
+{"name": "Chengdu", "location": "China"}
+{"name": "\u6df1\u5733", "location": "China"}
+{"name": "\u97e9\u56fd", "location": "Korea"}
+{"name": "Deutshland", "location": "Germany"}
+{"name": "\uad11\uc8fc", "location": "Korea"}
+{"name": "cn", "location": "China"}
+{"name": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22", "location": "Thailand"}
+{"name": "Rio de Janeiro", "location": "Brazil"}
+{"name": "Shaanxi", "location": "China"}
+{"name": "\u5356\u56fd\u8d3c", "location": "China"}
+{"name": "\u306b\u306a", "location": "Japan"}
+{"name": "\u0e14\u0e27\u0e07\u0e14\u0e32\u0e27\u0e17\u0e35\u0e48\u0e41\u0e2a\u0e19\u0e44\u0e01\u0e25", "location": "Thailand"}
+{"name": "Greece", "location": "Greece"}
+{"name": "Air", "location": "NotACountry"}
+{"name": "Vi\u1ec7t Nam", "location": "Vietnam"}
+{"name": "Queensland", "location": "Australia"}
+{"name": "Yahatanishi", "location": "Japan"}
+{"name": "\u5357\u5b81", "location": "China"}
+{"name": "\u6d66\u306e\u661f", "location": "Japan"}
+{"name": "Madinat Zayed", "location": "United Arab Emirates"}
+{"name": "\u5c11\u5317", "location": "China"}
+{"name": "Henan", "location": "China"}
+{"name": "\u7acb\u5ddd", "location": "Japan"}
+{"name": "Global", "location": "NotACountry"}
+{"name": "TX", "location": "United States"}
+{"name": "Hongkong", "location": "China"}
+{"name": "\u7f8e\u56fd", "location": "United States"}
+{"name": "planet", "location": "NotACountry"}
+{"name": "\u9752\u5c9b", "location": "China"}
+{"name": "\u5b87\u5b99\u4e2d\u5fc3", "location": "NotACountry"}
+{"name": "Nova Scotia", "location": "Canada"}
+{"name": "sydney", "location": "Australia"}
+{"name": "Sverige", "location": "Sweden"}
+{"name": "\u52a0\u5dde", "location": "United States"}
+{"name": "\u6e56\u5357", "location": "China"}
+{"name": "yangon", "location": "Myanmar"}
+{"name": "NC", "location": "United States"}
+{"name": "a world surrounded by CCP", "location": "NotACountry"}
+{"name": "SHANGHAI", "location": "China"}
+{"name": "Taibei", "location": "China"}
+{"name": "Nederland", "location": "Netherlands"}
+{"name": "Cambodia", "location": "Cambodia"}
+{"name": "\u81ea\u6f14\u4e59", "location": "NotACountry"}
+{"name": "\u590f\u5a01\u5937", "location": "United States"}
+{"name": "hongkong", "location": "China"}
+{"name": "NV", "location": "United States"}
+{"name": "\u6cb3\u5185", "location": "Vietnam"}
+{"name": "Perth", "location": "Australia"}
+{"name": "Sabah", "location": "Malaysia"}
+{"name": "\u6b27\u6d32", "location": "NotACountry"}
+{"name": "\u4ee5\u8272\u5217", "location": "Israel"}
+{"name": "\u6211\u7684\u56fd\u5bb6", "location": "China"}
+{"name": "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433", "location": "Russia"}
+{"name": "\u5b6b\u5433", "location": "China"}
+{"name": "Santiago", "location": "Chile"}
+{"name": "Kyoto", "location": "Japan"}
+{"name": "\ud83c\udded\ud83c\uddf0", "location": "China"}
+{"name": "\u4e89\u53d6\u6c11\u4e3b", "location": "China"}
+{"name": "\u5e7f\u4e1c", "location": "China"}
+{"name": "\u798f\u5efa", "location": "China"}
+{"name": "Hamborg", "location": "Germany"}
+{"name": "Indonesia", "location": "Indonesia"}
+{"name": "\u6dea\u9677\u5340", "location": "China"}
+{"name": "\u82ac\u5170", "location": "Finland"}
+{"name": "Eingapore", "location": "Singapore"}
+{"name": "NewCaledonia", "location": "New Caledonia"}
+{"name": "\u7ebd\u7ea6", "location": "United States"}
+{"name": "\u5fc3\u5728\u81ea\u7531", "location": "China"}
+{"name": "\u548c\u6b4c\u5c71", "location": "Japan"}
+{"name": "\u7f8e\u570b", "location": "United States"}
+{"name": "North America", "location": "NotACountry"}
+{"name": "\u95a2\u6771", "location": "Japan"}
+{"name": "fukushima", "location": "Japan"}
+{"name": "Pearl of the Orient", "location": "China"}
+{"name": "\u52a0\u62ff\u5927", "location": "Canada"}
+{"name": "\u5f85\u517c\u5c71", "location": "Japan"}
+{"name": "\uff1f", "location": "NotACountry"}
+{"name": "I am where I am", "location": "NotACountry"}
+{"name": "Sinai", "location": "Egypt"}
+{"name": "Angola", "location": "Angola"}
+{"name": "Northern Mariana Islands", "location": "United States"}
+{"name": "u.s", "location": "United States"}
+{"name": "\u5fb7\u56fd", "location": "Germany"}
+{"name": "Furry World", "location": "NotACountry"}
+{"name": "Hamilton City", "location": "Canada"}
+{"name": "\u74f6\u4e2d", "location": "China"}
+{"name": "Germany", "location": "Germany"}
+{"name": "\u4e2d\u534e", "location": "China"}
+{"name": "chi\u2006na", "location": "China"}
+{"name": "MA", "location": "United States"}
+{"name": "A chess board near you...", "location": "NotACountry"}
+{"name": "en el mundo", "location": "NotACountry"}
+{"name": "Pacific Northwest", "location": "NotACountry"}
+{"name": "India", "location": "India"}
+{"name": "Algeria", "location": "Algeria"}
+{"name": "40.759147,-73.988328", "location": "United States"}
+{"name": "rakuzan || seirin", "location": "NotACountry"}
+{"name": "all over the place", "location": "NotACountry"}
+{"name": "Mopti", "location": "Mali"}
+{"name": "Khamgaon", "location": "India"}
+{"name": "en el final del tiempo", "location": "NotACountry"}
+{"name": "Oz", "location": "NotACountry"}
+{"name": "Brasil", "location": "Brazil"}
+{"name": "England", "location": "United Kingdom"}
+{"name": "\u53a6\u95e8", "location": "China"}
+{"name": "Life, Twitter & in between.", "location": "NotACountry"}
+{"name": "Al Khobar", "location": "Saudi Arabia"}
+{"name": "en route", "location": "NotACountry"}
+{"name": "The South", "location": "NotACountry"}
+{"name": "\u9752\u68ee\u770c", "location": "Japan"}
+{"name": "still not accessed! !", "location": "NotACountry"}
+{"name": "Argentina", "location": "Argentina"}
+{"name": "SA", "location": "United States"}
+{"name": "\u65b0\u7586", "location": "China"}
+{"name": "No 4 Louga Crescent Wuse 2 Abu", "location": "Nigeria"}
+{"name": "venezuela", "location": "Venezuela"}
+{"name": "Wales", "location": "United Kingdom"}
+{"name": "Costa Rica", "location": "Costa Rica"}
+{"name": "Venezuela", "location": "Venezuela"}
+{"name": "toronto", "location": "Canada"}
+{"name": "MN", "location": "United States"}
+{"name": "Sullamania", "location": "NotACountry"}
+{"name": "Caribbean Internationalist", "location": "NotACountry"}
+{"name": "napa valley", "location": "United States"}
+{"name": "\u30c8\u30e9\u30ad\u30a2", "location": "Japan"}
+{"name": "EU", "location": "NotACountry"}
+{"name": "Pemogan", "location": "Indonesia"}
+{"name": "San Andreas", "location": "United States"}
+{"name": "Mexico", "location": "Mexico"}
+{"name": "The Holy Land \ud83c\uddff", "location": "NotACountry"}
+{"name": "\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e43\u0e08\u0e40\u0e2a\u0e21\u0e2d", "location": "Thailand"}
+{"name": "La la land", "location": "NotACountry"}
+{"name": "solely", "location": "NotACountry"}
+{"name": "Valencia", "location": "Spain"}
+{"name": "Andhra Pradesh", "location": "India"}
+{"name": "U S", "location": "United States"}
+{"name": "UK", "location": "United Kingdom"}
+{"name": "Bolivia", "location": "Bolivia"}
+{"name": "OR", "location": "United States"}
+{"name": "Area 11", "location": "NotACountry"}
+{"name": "Mahaloland", "location": "NotACountry"}
+{"name": "panjim", "location": "India"}
+{"name": "In the oceans of information", "location": "NotACountry"}
+{"name": "Netherlands", "location": "Netherlands"}
+{"name": "In the Eye of the Storm", "location": "NotACountry"}
+{"name": "Guangxi", "location": "China"}
+{"name": "Ghana", "location": "Ghana"}
+{"name": "No, i dont use twit like you", "location": "NotACountry"}
+{"name": "Brescia", "location": "Italy"}
+{"name": "WA", "location": "United States"}
+{"name": "Florida", "location": "United States"}
+{"name": "seoul", "location": "Korea"}
+{"name": "Frankfurt", "location": "Germany"}
+{"name": "10-0-11-00:02", "location": "NotACountry"}
+{"name": "selenellabrooks", "location": "NotACountry"}
+{"name": "Oklahoma", "location": "United States"}
+{"name": "Kyiv", "location": "Ukraine"}
+{"name": "Pr\u00e8s de Dieu", "location": "NotACountry"}
+{"name": "Yan\u2019an", "location": "China"}
+{"name": "The internet", "location": "NotACountry"}
+{"name": "Ho Chi", "location": "Vietnam"}
+{"name": "Murcia", "location": "Spain"}
+{"name": "Colombia", "location": "Colombia"}
+{"name": "A las orillas del  An\u00e1huac", "location": "NotACountry"}
+{"name": "1\u65e5\u76ee\u897fM-43b", "location": "NotACountry"}
+{"name": "Honduras", "location": "Honduras"}
+{"name": "Tokio", "location": "Japan"}
+{"name": "1 km from your heart", "location": "NotACountry"}
+{"name": "\u6218\u535a", "location": "China"}
+{"name": "Omnipresent", "location": "NotACountry"}
+{"name": "Deplorable Militant Normal", "location": "NotACountry"}
+{"name": "\u4ed9\u53f0", "location": "Japan"}
+{"name": "Malabo\n", "location": "Eq. Guinea"}
+{"name": "\u00bfD\u00f3ne t\u00fa estes, !!Yo\u00a1\u00a1 estar\u00e9", "location": "NotACountry"}
+{"name": "Pattaya", "location": "Thailand"}
+{"name": "CT", "location": "United States"}
+{"name": "Valley of The Kings!\ud83d\udc51", "location": "NotACountry"}
+{"name": "Lost at the South", "location": "NotACountry"}
+{"name": "Gujarat", "location": "India"}
+{"name": "Sherwood Forest", "location": "United Kingdom"}
+{"name": "somewhere", "location": "NotACountry"}
+{"name": "Ogun state", "location": "NotACountry"}
+{"name": "Gorkha", "location": "Nepal"}
+{"name": "` my yooniverse \u221e", "location": "NotACountry"}
+{"name": "Hungary", "location": "Hungary"}
+{"name": "Bahamas", "location": "Bahamas"}
+{"name": "Cumbria", "location": "United Kingdom"}
+{"name": "Milwaukee", "location": "United States"}
+{"name": "Hamilton", "location": "Canada"}
+{"name": "sofia", "location": "Bulgaria"}
+{"name": "Soweto, South Africa", "location": "South Africa"}
+{"name": "Corporate World", "location": "NotACountry"}
+{"name": "Warangal-Hamamkonda", "location": "India"}
+{"name": "Bogota", "location": "Colombia"}
+{"name": "In your imagination only", "location": "NotACountry"}
+{"name": "Malang", "location": "Indonesia"}
+{"name": "tupad amo silingan", "location": "NotACountry"}
+{"name": "World", "location": "NotACountry"}
+{"name": "Putting the gand in Uganda", "location": "NotACountry"}
+{"name": "Palestine", "location": "Palestine"}
+{"name": "Ubiquitous", "location": "NotACountry"}
+{"name": "VA", "location": "United States"}
+{"name": "BLI\u0418K IN YOUR AREA", "location": "NotACountry"}
+{"name": "deutschland", "location": "Germany"}
+{"name": "Charsadda", "location": "Pakistan"}
+{"name": "6.6030793,3.292544", "location": "Nigeria"}
+{"name": "Banten", "location": "Indonesia"}
+{"name": "In the twitterverse", "location": "NotACountry"}
+{"name": "\u708a\u98ef\u5668", "location": "NotACountry"}
+{"name": "FL", "location": "United States"}
+{"name": "Cuba", "location": "Cuba"}
+{"name": "Brasil", "location": "Brazil"}
+{"name": "Somerset", "location": "United Kingdom"}
+{"name": "Maldives", "location": "NotACountry"}
+{"name": "On an island training... Romans 1:16 Not Ashamed. ALOHA #ThePersistence", "location": "NotACountry"}
+{"name": "CHN", "location": "China"}
+{"name": "Bangladesh", "location": "Bangladesh"}
+{"name": "Fontllonga", "location": "Spain"}
+{"name": "united arab emirates", "location": "United Arab Emirates"}
+{"name": "Israel", "location": "Israel"}
+{"name": "Jamaica", "location": "Jamaica"}
+{"name": "\u0e23\u0e35\u0e40\u0e22\u0e2d\u0e30\u0e21\u0e32\u0e01\u0e46 \u0e15\u0e34\u0e48\u0e07\u0e2b\u0e25\u0e32\u0e22\u0e27\u0e07", "location": "Thailand"}
+{"name": "Kenya", "location": "Kenya"}
+{"name": "\u91cd\u5e86", "location": "China"}
+{"name": "Blue girl-Red State", "location": "NotACountry"}
+{"name": "Johor Bahru", "location": "Malaysia"}
+{"name": "Jackson Wang", "location": "NotACountry"}
+{"name": "Maroc", "location": "Morocco"}
+{"name": "Blockchain", "location": "NotACountry"}
+{"name": "FBI", "location": "NotACountry"}
+{"name": "Aligarh", "location": "India"}
+{"name": "Italia", "location": "Italy"}
+{"name": "router space", "location": "NotACountry"}
+{"name": "Lost Land", "location": "NotACountry"}
+{"name": "Universe", "location": "NotACountry"}
+{"name": "past due move/leave", "location": "NotACountry"}
+{"name": "Traveler", "location": "NotACountry"}
+{"name": "\u7a2e\u82b1\u5bb6", "location": "China"}
+{"name": "Ganga kinare", "location": "India"}
+{"name": "PA", "location": "United States"}
+{"name": "Klipgat", "location": "South Africa"}
+{"name": "Paraguay", "location": "Paraguay"}
+{"name": "BMX Street Bandara", "location": "NotACountry"}
+{"name": "Indonesia", "location": "Indonesia"}
+{"name": "Poland", "location": "Poland"}
+{"name": "Fortaleza", "location": "Brazil"}
+{"name": "CO", "location": "United States"}
+{"name": "Canadian", "location": "Canada"}
+{"name": "Non", "location": "NotACountry"}
+{"name": "behind you", "location": "NotACountry"}
+{"name": "nyc", "location": "United States"}
+{"name": "Stolen", "location": "NotACountry"}
+{"name": "H\u1ed3 Ch\u00ed Minh City", "location": "Vietnam"}
+{"name": "Danmark", "location": "Denmark"}
+{"name": "NON", "location": "NotACountry"}
+{"name": "rio de janeiro", "location": "Brazil"}
+{"name": "moon", "location": "NotACountry"}
+{"name": "Harcourt", "location": "Nigeria"}
+{"name": "there", "location": "NotACountry"}
+{"name": "Manokwari", "location": "Indonesia"}
+{"name": "Botswana", "location": "Botswana"}
+{"name": "Chile", "location": "Chile"}
+{"name": "Austwaylia", "location": "NotACountry"}
+{"name": "Uganda", "location": "Uganda"}
+{"name": "\u2014", "location": "NotACountry"}
+{"name": "Beihai", "location": "China"}
+{"name": "Kepulauan Riau", "location": "Indonesia"}
+{"name": "\u0634\u06cc\u062e\u0648\u067e\u0648\u0631\u06c1 \u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "location": "Pakistan"}
+{"name": "Nepal", "location": "Nepal"}
+{"name": "canada", "location": "Canada"}
+{"name": "Alberta", "location": "Canada"}
+{"name": "UNIVERSE", "location": "NotACountry"}
+{"name": "Belgium", "location": "Belgium"}
+{"name": "Saudi Arabia", "location": "Saudi Arabia"}
+{"name": "Mega City One", "location": "NotACountry"}
+{"name": "Canberra", "location": "Australia"}
+{"name": "N.Y.", "location": "United States"}
+{"name": "Male' City", "location": "NotACountry"}
+{"name": "Auckland", "location": "New Zealand"}
+{"name": "famous", "location": "NotACountry"}
+{"name": "UNited StateS", "location": "United States"}
+{"name": "Makassar", "location": "Indonesia"}
+{"name": "Mandaluyong", "location": "Philippines"}
+{"name": "Tanzania", "location": "Tanzania"}
+{"name": "John Innes Centre", "location": "United Kingdom"}
+{"name": "Court", "location": "NotACountry"}
+{"name": "Girona", "location": "Spain"}
+{"name": "Niger", "location": "Niger"}
+{"name": "Norsborg", "location": "Sweden"}
+{"name": "Chicago", "location": "United States"}
+{"name": "on the road", "location": "NotACountry"}
+{"name": "Somalia", "location": "Somalia"}
+{"name": " islandntry", "location": "NotACountry"}
+{"name": "\u4f53\u8102", "location": "NotACountry"}
+{"name": "\ud55c\uad6d", "location": "Korea"}
+{"name": "RE-101", "location": "NotACountry"}
+{"name": "\u4e2d\u90e8\u5730\u65b9", "location": "Vietnam"}
+{"name": "African", "location": "NotACountry"}
+{"name": "Manila", "location": "Philippines"}
+{"name": "bietnamese", "location": "Vietnam"}
+{"name": "\u6211\u81ea\u5df1", "location": "China"}
+{"name": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a", "location": "Russia"}
+{"name": "Lothl\u00f3rien", "location": "NotACountry"}
+{"name": "Chine", "location": "China"}
+{"name": "Golfo", "location": "Italy"}
+{"name": "Elbonia", "location": "NotACountry"}
+{"name": "\u0e1b", "location": "Thailand"}
+{"name": "Bergen", "location": "Norway"}
+{"name": "Des d'una butaca de cuir", "location": "Spain"}
+{"name": "forever", "location": "NotACountry"}
+{"name": "International", "location": "NotACountry"}
+{"name": "kenya", "location": "Kenya"}
+{"name": "Jeddah", "location": "Saudi Arabia"}
+{"name": "Ecuador", "location": "Ecuador"}
+{"name": "Wirral", "location": "United Kingdom"}
+{"name": "IN", "location": "United States"}
+{"name": "Supercluster", "location": "NotACountry"}
+{"name": "Bandung", "location": "Indonesia"}
+{"name": "Idaho", "location": "United States"}
+{"name": "wanted", "location": "NotACountry"}
+{"name": "maced", "location": "Poland"}
+{"name": "\u8b8a\u5316", "location": "China"}
+{"name": "New Asgard", "location": "United Kingdom"}
+{"name": "Corse", "location": "France"}
+{"name": "Shanxi", "location": "China"}
+{"name": "OH", "location": "United States"}
+{"name": "P-42' M-42'", "location": "NotACountry"}
+{"name": "Cornelia Street", "location": "United States"}
+{"name": "Massachusetts", "location": "United States"}
+{"name": "Mandi Bahauddin", "location": "Pakistan"}
+{"name": "American", "location": "United States"}
+{"name": "Elsewhere", "location": "NotACountry"}
+{"name": "Virginia", "location": "United States"}
+{"name": "Russia", "location": "Russia"}
+{"name": "New Hampshire", "location": "United States"}
+{"name": "TN", "location": "United States"}
+{"name": "pr\u00e8s de", "location": "France"}
+{"name": "mahemdavad", "location": "India"}
+{"name": "Rakantha", "location": "NotACountry"}
+{"name": "Sri Lanka", "location": "Sri Lanka"}
+{"name": "MI", "location": "United States"}
+{"name": "Pune", "location": "India"}
+{"name": "heart", "location": "NotACountry"}
+{"name": "gmail", "location": "NotACountry"}
+{"name": "Ohlone", "location": "NotACountry"}
+{"name": "Malaysia", "location": "Malaysia"}
+{"name": "Outside", "location": "NotACountry"}
+{"name": "Nankana Sahib", "location": "Pakistan"}
+{"name": "Zulia", "location": "Venezuela"}
+{"name": "Wanderlust", "location": "NotACountry"}
+{"name": "Near", "location": "NotACountry"}
+{"name": "Prayers", "location": "NotACountry"}
+{"name": "Puerto Plata", "location": "Dominican Rep."}
+{"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430", "location": "Ukraine"}
+{"name": "flying", "location": "NotACountry"}
+{"name": "san fernando", "location": "United States"}
+{"name": "\u9be8\u5cf6", "location": "Japan"}
+{"name": "Cape Town", "location": "South Africa"}
+{"name": "Pambansa", "location": "NotACountry"}
+{"name": "DF", "location": "NotACountry"}
+{"name": "Srbija", "location": "Serbia"}
+{"name": "Kroonstad", "location": "South Africa"}
+{"name": "BC", "location": "Canada"}
+{"name": "kyiv", "location": "Ukraine"}
+{"name": "Macon", "location": "United States"}
+{"name": "Ireland", "location": "Ireland"}
+{"name": "North Carolina", "location": "United States"}
+{"name": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "location": "Pakistan"}
+{"name": "\u041a\u0430\u043b\u0443\u0433\u0430", "location": "Russia"}
+{"name": "050692x041294", "location": "NotACountry"}
+{"name": "SG", "location": "Singapore"}
+{"name": "Alien", "location": "NotACountry"}
+{"name": "Inframundo", "location": "NotACountry"}
+{"name": "Norway", "location": "Norway"}
+{"name": "Paris", "location": "France"}
+{"name": "Rotterdam", "location": "Netherlands"}
+{"name": "Quebec", "location": "Canada"}
+{"name": "Kolkata", "location": "India"}
+{"name": "RI", "location": "United States"}
+{"name": "Republic of House", "location": "NotACountry"}
+{"name": "NZ", "location": "New Zealand"}
+{"name": "sa lugar na walang tao", "location": "NotACountry"}
+{"name": "\u0e08.\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23", "location": "Thailand"}
+{"name": "Gurgaon", "location": "India"}
+{"name": "SKY", "location": "NotACountry"}
+{"name": "dark", "location": "NotACountry"}
+{"name": "Mumbai", "location": "India"}
+{"name": "Stevenage", "location": "United Kingdom"}
+{"name": "Owerri", "location": "Nigeria"}
+{"name": "louisiana", "location": "United States"}
+{"name": "Dominican Republic", "location": "Dominican Rep."}
+{"name": "Trafficante", "location": "NotACountry"}
+{"name": "Location", "location": "NotACountry"}
+{"name": "SongQian studio", "location": "China"}
+{"name": "Woodland Crescent", "location": "United Kingdom"}
+{"name": "Hainan", "location": "China"}
+{"name": "tweets", "location": "NotACountry"}
+{"name": "Thika", "location": "Kenya"}
+{"name": "Eastern Europe", "location": "NotACountry"}
+{"name": "Din\u00e9 Bik\u00e9yah", "location": "United States"}
+{"name": "Westfalen", "location": "Germany"}
+{"name": "PlayList", "location": "NotACountry"}
+{"name": "find", "location": "NotACountry"}
+{"name": "very", "location": "NotACountry"}
+{"name": "-0.455685,-90.282696", "location": "Ecuador"}
+{"name": "display", "location": "NotACountry"}
+{"name": "Manchester", "location": "United Kingdom"}
+{"name": "Utopia", "location": "NotACountry"}
+{"name": "Yogyakarta", "location": "Indonesia"}
+{"name": "earth", "location": "NotACountry"}
+{"name": "T\u00fcrkiye", "location": "Turkey"}
+{"name": "Malawi", "location": "Malawi"}
+{"name": "\u6d59\u6c5f", "location": "China"}
+{"name": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a", "location": "United Arab Emirates"}
+{"name": "Rwanda", "location": "Rwanda"}
+{"name": "ASIA", "location": "NotACountry"}
+{"name": "\u0632\u0645\u06cc\u0646", "location": "NotACountry"}
+{"name": "singapore", "location": "Singapore"}
+{"name": "Per\u00fa", "location": "Peru"}
+{"name": "scotland", "location": "United Kingdom"}
+{"name": "Newtonville", "location": "United States"}
+{"name": "Dar Es Salaam", "location": "Tanzania"}
+{"name": "Yerevan", "location": "Armenia"}
+{"name": "QWERTusYoS", "location": "NotACountry"}
+{"name": "\u041a\u042b\u0428\u0422\u042b\u041c", "location": "Russia"}
+{"name": "Calabarzon", "location": "Philippines"}
+{"name": "Wellington", "location": "New Zealand"}
+{"name": "Qinghai", "location": "China"}
+{"name": "ASEAN", "location": "NotACountry"}
+{"name": "LUSIKISIKI EC.", "location": "South Africa"}
+{"name": "US", "location": "United States"}
+{"name": "\u6768\u51cc", "location": "China"}
+{"name": "\u00dcT: 43.65339,-79.37533", "location": "Canada"}
+{"name": "\u7b2c\u4e5d\u4e16\u754c", "location": "China"}
+{"name": "Sky", "location": "NotACountry"}
+{"name": "Michigan", "location": "United States"}
+{"name": "sky", "location": "NotACountry"}
+{"name": "Ngaliyan", "location": "Indonesia"}
+{"name": "Jambi", "location": "Indonesia"}
+{"name": "Riyadh", "location": "Saudi Arabia"}
+{"name": "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f", "location": "Bulgaria"}
+{"name": "Thanks", "location": "NotACountry"}
+{"name": "Follow", "location": "NotACountry"}
+{"name": "jeddah", "location": "Saudi Arabia"}
+{"name": "Twitterstan", "location": "NotACountry"}
+{"name": "\u0646\u06c1\u06cc\u06ba", "location": "NotACountry"}
+{"name": "Malta", "location": "Malta"}
+{"name": "Nairobi", "location": "Kenya"}
+{"name": "Lakshmanpuri", "location": "India"}
+{"name": "Copenhagen", "location": "Denmark"}
+{"name": "Terengganu", "location": "Malaysia"}
+{"name": "Lahore", "location": "Pakistan"}
+{"name": "pakistan", "location": "Pakistan"}
+{"name": "Dream", "location": "NotACountry"}
+{"name": "Swiss Va Lay", "location": "NotACountry"}
+{"name": "Taxila", "location": "Pakistan"}
+{"name": "50.984736,-114.080062", "location": "Canada"}
+{"name": "Steem", "location": "NotACountry"}
+{"name": "El Salvador", "location": "El Salvador"}
+{"name": "Frogmore", "location": "United Kingdom"}
+{"name": "Ciudad de Cabo", "location": "South Africa"}
+{"name": "Tainan", "location": "China"}
+{"name": "Westminster", "location": "United Kingdom"}
+{"name": "Newfoundland", "location": "Canada"}
+{"name": "\ufffd\ufffd", "location": "NotACountry"}
+{"name": "Cornwall", "location": "United Kingdom"}
+{"name": "\ud83c\uddf5\ud83c\udded", "location": "Philippines"}
+{"name": "\u00dcT: 51.522667,-0.647466", "location": "United Kingdom"}
+{"name": "kathmandu", "location": "Nepal"}
+{"name": "New York", "location": "United States"}
+{"name": "Scotland", "location": "United Kingdom"}
+{"name": "Madurai-Meenakhshi-AmmanTemple", "location": "India"}
+{"name": "we`re", "location": "NotACountry"}
+{"name": "Globe", "location": "NotACountry"}
+{"name": "Hackney", "location": "United Kingdom"}
+{"name": "Open", "location": "NotACountry"}
+{"name": "Zurich", "location": "Switzerland"}
+{"name": "Portugal", "location": "Portugal"}
+{"name": "Veracruz", "location": "Mexico"}
+{"name": "poloniex", "location": "NotACountry"}
+{"name": "Lebanon", "location": "Lebanon"}
+{"name": "milf york", "location": "NotACountry"}
+{"name": "Austin", "location": "United States"}
+{"name": "Lala land", "location": "NotACountry"}
+{"name": "\u611b\u77e5", "location": "Japan"}
+{"name": "Fortschritt", "location": "NotACountry"}
+{"name": "Tongeren", "location": "Belgium"}
+{"name": "Amsterdam", "location": "Netherlands"}
+{"name": "Iskailow", "location": "NotACountry"}
+{"name": "Roma", "location": "Italy"}
+{"name": "Kuala", "location": "Malaysia"}
+{"name": "Vantaa", "location": "Finland"}
+{"name": "Puerto Rico", "location": "United States"}
+{"name": "Recife", "location": "Brazil"}
+{"name": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2", "location": "Cyprus"}
+{"name": "Ordem e Progresso", "location": "Brazil"}
+{"name": "Bhubaneswar", "location": "India"}
+{"name": "Jackson's Kingdom", "location": "NotACountry"}
+{"name": "Morelos", "location": "Mexico"}
+{"name": "Lietuva", "location": "Lithuania"}
+{"name": "#TodosSomosJalife", "location": "NotACountry"}
+{"name": "#", "location": "NotACountry"}
+{"name": "22.355181,114.09744", "location": "China"}
+{"name": "r\u00e9veill", "location": "France"}
+{"name": "Karachi", "location": "Pakistan"}
+{"name": "Lagos", "location": "Nigeria"}
+{"name": "Bhopal", "location": "India"}
+{"name": "Fuzhou", "location": "China"}
+{"name": "Atmosphere", "location": "NotACountry"}
+{"name": "europ", "location": "NotACountry"}
+{"name": "Majalengka", "location": "Indonesia"}
+{"name": "NH", "location": "United States"}
+{"name": "South Africa", "location": "South Africa"}
+{"name": "\u6d66\u4e1c", "location": "China"}
+{"name": "Manchukuo", "location": "China"}
+{"name": "Mosquera", "location": "Colombia"}
+{"name": "sexual", "location": "NotACountry"}
+{"name": "Macedonia", "location": "Macedonia"}
+{"name": "Bangkok", "location": "Thailand"}
+{"name": "Washuk", "location": "Pakistan"}
+{"name": "Erbil", "location": "Iraq"}
+{"name": "Room", "location": "NotACountry"}
+{"name": "\ud83c\udde8\ud83c\udde6", "location": "United States"}
+{"name": "Coimbatore", "location": "India"}
+{"name": "Stockholm", "location": "Sweden"}
+{"name": "Shropshire", "location": "United Kingdom"}
+{"name": "\u65b0\u6f5f", "location": "Japan"}
+{"name": "SMTOWN", "location": "NotACountry"}
+{"name": "ITALIA", "location": "Italy"}
+{"name": "reply", "location": "NotACountry"}
+{"name": "Europe", "location": "NotACountry"}
+{"name": "Kabul", "location": "Afghanistan"}
+{"name": "S. C .", "location": "NotACountry"}
+{"name": "War of", "location": "NotACountry"}
+{"name": "Selangor", "location": "Malaysia"}
+{"name": "Dominican", "location": "Dominican Rep."}
+{"name": "\u092d\u093e\u0930\u0924", "location": "India"}
+{"name": "m\u00e9xico", "location": "Mexico"}
+{"name": "global", "location": "NotACountry"}
+{"name": "Java", "location": "Indonesia"}
+{"name": "london", "location": "United Kingdom"}
+{"name": ".net", "location": "NotACountry"}
+{"name": "NM", "location": "United States"}
+{"name": "Beacon Hill", "location": "China"}
+{"name": ".id", "location": "NotACountry"}
+{"name": " then", "location": "NotACountry"}
+{"name": "Internet", "location": "NotACountry"}
+{"name": "Norge", "location": "Norway"}
+{"name": "Sungai Petani", "location": "Malaysia"}
+{"name": "Trump\u2019s America", "location": "United States"}
+{"name": "\u2601\u63a5\u5929\u83b2\u53f6\u65e0\u7a77\u78a7\uff0c\u6620\u65e5\u8377\u82b1\u522b\u6837\u7ea2", "location": "China"}
+{"name": "Kanagawa", "location": "Japan"}
+{"name": "Whistler", "location": "Canada"}
+{"name": "Iraq", "location": "Iraq"}
+{"name": "Baghdad", "location": "Iraq"}
+{"name": "West Kelowna", "location": "Canada"}
+{"name": "collection", "location": "NotACountry"}
+{"name": "\u30d5\u30a3\u30b8\u30fc", "location": "Fiji"}
+{"name": "Fiji", "location": "Fiji"}
+{"name": "Landless", "location": "NotACountry"}
+{"name": "FantasyLand", "location": "NotACountry"}
+{"name": "New Brunswick", "location": "Canada"}
+{"name": "\u043c\u04d9\u0441\u043a\u0435\u0443", "location": "Russia"}
+{"name": "\u6c55\u5934", "location": "China"}
+{"name": "Tongva", "location": "United States"}
+{"name": "Wyoming", "location": "United States"}
+{"name": "tema", "location": "Ghana"}
+{"name": "Ghana", "location": "Ghana"}
+{"name": "TUNISIA", "location": "Tunisia"}
+{"name": "Tunisia", "location": "Tunisia"}
+{"name": "Polomolok", "location": "Philippines"}
+{"name": "Cotabato", "location": "Philippines"}
+{"name": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441", "location": "Mongolia"}
+{"name": "\u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440", "location": "Mongolia"}
+{"name": "Belgique", "location": "Belgium"}
+{"name": "Bernissart", "location": "Belgium"}
+{"name": "\u0e40\u0e15\u0e32\u0e2d\u0e1a", "location": "Thailand"}
+{"name": "Stafford", "location": "United Kingdom"}
+{"name": "Texas", "location": "United States"}
+{"name": "Houston", "location": "United States"}
+{"name": "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430", "location": "Russia"}
+{"name": "Bihar", "location": "India"}
+{"name": "Balthari", "location": "India"}
+{"name": "hell", "location": "NotACountry"}
+{"name": "Sussex", "location": "United Kingdom"}
+{"name": "Bindal", "location": "Norway"}
+{"name": "Colombo", "location": "Sri Lanka"}
+{"name": "Muerto Rico", "location": "NotACountry"}
+{"name": "Hk", "location": "China"}
+{"name": "\u5929\u738b\u6d32", "location": "NotACountry"}
+{"name": "\u6566\u8cc0", "location": "NotACountry"}
+{"name": "Algonquin", "location": "NotACountry"}
+{"name": "Republika Srpska", "location": "Bosnia and Herz."}
+{"name": "Bosnia", "location": "Bosnia and Herz."}
+{"name": "Oman", "location": "Oman"}
+{"name": "Muscat", "location": "Oman"}
+{"name": "Brooklyn", "location": "United States"}
+{"name": "\u65e7\u90fd", "location": "China"}
+{"name": "Chimera", "location": "NotACountry"}
+{"name": "sichuan", "location": "China"}
+{"name": "AZ", "location": "United States"}
+{"name": "\u56fd\u5883\u306e\u897f", "location": "Japan"}
+{"name": "Veneto", "location": "Italy"}
+{"name": "Padova", "location": "Italy"}
+{"name": "Asgard", "location": "NotACountry"}
+{"name": "Kirikiriroa", "location": "New Zealand"}
+{"name": "germany", "location": "Germany"}
+{"name": "National Capital Region", "location": "Philippines"}
+{"name": "Noida", "location": "India"}
+{"name": "Somewhere", "location": "NotACountry"}
+{"name": "@", "location": "NotACountry"}
+{"name": "Sheikhupura", "location": "Pakistan"}
+{"name": "Surakarta", "location": "Indonesia"}
+{"name": "Jawa", "location": "Indonesia"}
+{"name": "Kakamega", "location": "Kenya"}
+{"name": "Mogadishu", "location": "Somalia"}
+{"name": "\ud83c\uddee\ud83c\uddf3", "location": "India"}
+{"name": "York", "location": "United Kingdom"}
+{"name": "MO", "location": "United States"}
+{"name": "\u00dcT: 10.180226,-68.0479", "location": "Venezuela"}
+{"name": "Guam", "location": "Guam"}
+{"name": "Hood", "location": "United States"}
+{"name": "Pacific High", "location": "NotACountry"}
+{"name": "Ammapet", "location": "India"}
+{"name": "ChiNazi", "location": "China"}
+{"name": "Manitoulin", "location": "Canada"}
+{"name": "Ethiopia", "location": "Ethiopia"}
+{"name": "Rover", "location": "NotACountry"}
+{"name": "dimana", "location": "Indonesia"}
+{"name": "\u0e1c\u0e21\u0e2b\u0e07\u0e2d\u0e01\u0e01\u0e23\u0e30\u0e08\u0e38\u0e01\u0e19\u0e31\u0e49\u0e19\u0e02\u0e2d\u0e07\u0e22\u0e31\u0e22\u0e40\u0e08\u0e21\u0e2a\u0e4c", "location": "Thailand"}
+{"name": "OK", "location": "United States"}
+{"name": "Fly", "location": "NotACountry"}
+{"name": "City of Light", "location": "NotACountry"}
+{"name": "rothwell Gornt", "location": "United States"}
+{"name": "Moscow", "location": "Russia"}
+{"name": "Cave", "location": "NotACountry"}
+{"name": "HAHAHAHAHA", "location": "NotACountry"}
+{"name": "In a place", "location": "NotACountry"}
+{"name": "Candyland", "location": "NotACountry"}
+{"name": "JPN,inner universe", "location": "NotACountry"}
+{"name": "\ud835\udd0f\ud835\udd22\ud835\udd1e\ud835\udd33\ud835\udd26\ud835\udd2b\ud835\udd24 \ud835\udd2a\ud835\udd36 \ud835\udd2a\ud835\udd1e\ud835\udd2f\ud835\udd28", "location": "NotACountry"}
+{"name": "Philippines", "location": "Philippines"}
+{"name": "+44", "location": "United Kingdom"}
+{"name": "Banatsko Veliko Selo", "location": "Serbia"}
+{"name": "Colima", "location": "Mexico"}
+{"name": "Milky Way", "location": "NotACountry"}
+{"name": "Abbottabad", "location": "Pakistan"}
+{"name": "LONDON", "location": "United Kingdom"}
+{"name": "Peru", "location": "Peru"}
+{"name": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629", "location": "Saudi Arabia"}
+{"name": "Senegal", "location": "Senegal"}
+{"name": "Caracas", "location": "Venezuela"}
+{"name": "Azerbaijan", "location": "Azerbaijan"}
+{"name": "Baku", "location": "Azerbaijan"}
+{"name": "Sindh", "location": "Pakistan"}
+{"name": "Larkana", "location": "Pakistan"}
+{"name": "Bombay", "location": "India"}
+{"name": "Egypt", "location": "Egypt"}
+{"name": "Prison", "location": "NotACountry"}
+{"name": "Coconut", "location": "NotACountry"}
+{"name": "Bengaluru", "location": "India"}
+{"name": "Kovilpatti", "location": "India"}
+{"name": "Chennai", "location": "India"}
+{"name": "Uruguay", "location": "Uruguay"}
+{"name": "Montevideo", "location": "Uruguay"}
+{"name": "Alameda", "location": "United States"}
+{"name": "Oakland", "location": "United States"}
+{"name": "Albania", "location": "Albania"}
+{"name": "Tirana", "location": "Albania"}
+{"name": "Commiefornia", "location": "NotACountry"}
+{"name": "I\u2019m", "location": "NotACountry"}
+{"name": "Montani Semper Liberi", "location": "NotACountry"}
+{"name": "\ub3c4\uacbd\uc218", "location": "NotACountry"}
+{"name": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d", "location": "Russia"}
+{"name": "Sakhalin", "location": "Russia"}
+{"name": "Winterfell", "location": "NotACountry"}
+{"name": "Estados Unidos", "location": "United States"}
+{"name": "baryo dos ila vingno", "location": "NotACountry"}
+{"name": "85026 (Trump Hell)", "location": "NotACountry"}
+{"name": "Forever", "location": "NotACountry"}
+{"name": "Las Angeles", "location": "United States"}
+{"name": "Wakanda", "location": "NotACountry"}
+{"name": "AJK", "location": "Pakistan"}
+{"name": "Mordor", "location": "NotACountry"}
+{"name": "uruguay", "location": "Uruguay"}
+{"name": "\ud83d\udc3c", "location": "NotACountry"}
+{"name": "Uzbekistan", "location": "Uzbekistan"}
+{"name": "where", "location": "NotACountry"}
+{"name": "Male'", "location": "NotACountry"}
+{"name": "Trinidad and Tobago", "location": "Trinidad and Tobago"}
+{"name": "Where", "location": "NotACountry"}
+{"name": "Viet Nam", "location": "Vietnam"}
+{"name": "Est-ce", "location": "NotACountry"}
+{"name": "PTA", "location": "NotACountry"}
+{"name": "🇯🇵", "location": "Japan"}
+{"name": "\u042f\u043f\u043e\u043d\u0438\u044f", "location": "Japan"}
+{"name": "\u0410\u043e\u043c\u043e\u0440\u0438", "location": "Japan"}
+{"name": "ireland", "location": "Ireland"}
+{"name": "Palermo", "location": "Argentina"}
+{"name": "Bs. As.", "location": "Argentina"}
+{"name": "Barranquilla", "location": "Colombia"}
+{"name": "massachusetts", "location": "United States"}
+{"name": "Lekki", "location": "Nigeria"}
+{"name": "Abidjan", "location": "C\u00f4te d'Ivoire"}
+{"name": "C\u00f4te d'Ivoire", "location": "C\u00f4te d'Ivoire"}
+{"name": "Cote d'Ivoire", "location": "C\u00f4te d'Ivoire"}
+{"name": "Cote d'ivoire", "location": "C\u00f4te d'Ivoire"}
+{"name": "cote d'ivoire", "location": "C\u00f4te d'Ivoire"}
+{"name": "Madrid", "location": "Spain"}
+{"name": "Without", "location": "NotACountry"}
+{"name": "without", "location": "NotACountry"}
+{"name": "Australasia", "location": "NotACountry"}
+{"name": "In De Tuin Van Limburg", "location": "NotACountry"}
+{"name": "Natal", "location": "Brazil"}
+{"name": "Rio Grande do Norte", "location": "Brazil"}
+{"name": "Sul-Teng", "location": "Indonesia"}
+{"name": "Sulawesi", "location": "Indonesia"}
+{"name": "Avalon", "location": "NotACountry"}
+{"name": "\u30cb\u30d3\u30eb", "location": "Japan"}
+{"name": "Nibiru", "location": "Japan"}
+{"name": "worlwide", "location": "NotACountry"}
+{"name": "Animal", "location": "NotACountry"}
+{"name": "The Six Realms", "location": "NotACountry"}
+{"name": "San Nicol\u00e1s de los Garza", "location": "Mexico"}
+{"name": "\u798f\u5ca1", "location": "Japan"}
+{"name": "\u3042\u308b\u5e7b\u306e\u6c11\u306e\u5730", "location": "Japan"}
+{"name": "Debajo del higuer\u00f3n", "location": "NotACountry"}
+{"name": "Liverpool", "location": "United Kingdom"}
+{"name": "Happily", "location": "NotACountry"}
+{"name": "Oxford", "location": "United Kingdom"}
+{"name": "THE BRONX", "location": "United States"}
+{"name": "The Bronx", "location": "United States"}
+{"name": "El Cosmos", "location": "NotACountry"}
+{"name": "Sacramento", "location": "United States"}
+{"name": "morong", "location": "Philippines"}
+{"name": "DK", "location": "NotACountry"}
+{"name": "Kpk", "location": "Pakistan"}
+{"name": "Bajaur", "location": "Pakistan"}
+{"name": "Manipal", "location": "India"}
+{"name": "Leiden", "location": "Netherlands"}
+{"name": "CN", "location": "China"}
+{"name": "Busan", "location": "Korea"}
+{"name": "\u72af\u5927\u5bb3\u9177\u8aa4\u6115\u4fae\u75db\u8a48\u75b4\u6563\u6094", "location": "NotACountry"}
+{"name": "Gods", "location": "NotACountry"}
+{"name": "\ud83c\uddf5\ud83c\uddf0", "location": "Pakistan"}
+{"name": "TEXAS", "location": "United States"}
+{"name": "raleigh", "location": "United States"}
+{"name": "\u5357\u6975", "location": "NotACountry"}
+{"name": "MT", "location": "United States"}
+{"name": "\u015awiat", "location": "NotACountry"}
+{"name": " \u0e14\u0e49\u0e2d\u0e21\u200bYamaha\u0e02\u0e2d\u0e07\u0e17\u0e31\u0e48\u0e19", "location": "NotACountry"}
+{"name": "Abuja", "location": "Nigeria"}
+{"name": "Zaria", "location": "Nigeria"}
+{"name": "caracas", "location": "Venezuela"}
+{"name": "Assam", "location": "India"}
+{"name": "A Warm Peninsula Paradise!", "location": "NotACountry"}
+{"name": "sleeping", "location": "NotACountry"}
+{"name": "\u0627\u0644\u0647\u0646\u062f", "location": "India"}
+{"name": "Kano", "location": "NotACountry"}
+{"name": "Ground Level", "location": "NotACountry"}
+{"name": "http://", "location": "NotACountry"}
+{"name": "Finland", "location": "Finland"}
+{"name": "\u4e00\u4e2a\u7f8e\u597d\u7684\u4e16\u754c", "location": "China"}
+{"name": "Raleigh", "location": "United States"}
+{"name": "endorsement", "location": "NotACountry"}
+{"name": "En el \u00fanico pa\u00eds sin Oeste!", "location": "NotACountry"}
+{"name": "Brideshead", "location": "NotACountry"}
+{"name": "Blessed", "location": "NotACountry"}
+{"name": "Tanjong Pagar", "location": "Singapore"}
+{"name": "Murbad malshej", "location": "NotACountry"}
+{"name": "\u0e19\u0e23\u0e01\u0e2a\u0e38\u0e02\u0e32\u0e27\u0e14\u0e35\u200b", "location": "NotACountry"}
+{"name": "\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433", "location": "Russia"}
+{"name": "Search", "location": "NotACountry"}
+{"name": "kingston", "location": "Jamaica"}
+{"name": "jamaica", "location": "Jamaica"}
+{"name": "Speed Bump City", "location": "NotACountry"}
+{"name": "\u5149\u4e34\u6b22\u8fce\u518d\u6765 / \u0627\u06cc\u0646 \u0646\u06cc\u0632 \u0628\u06af\u0630\u0631\u062f", "location": "NotACountry"}
+{"name": "\u00dcT: 34.162014,-118.264101", "location": "United States"}
+{"name": "HCM", "location": "NotACountry"}
+{"name": "islamabad", "location": "Pakistan"}
+{"name": "rawalpindi", "location": "Pakistan"}
+{"name": "House Targaryen", "location": "NotACountry"}
+{"name": "\u06a9\u06cc\u0648\u06ba \u0628\u062a\u0627\u0624\u06ba \ud83e\udd14", "location": "NotACountry"}
+{"name": "Orlando", "location": "United States"}
+{"name": "NNNNN", "location": "NotACountry"}
+{"name": "Turin", "location": "Italy"}
+{"name": "hi, nice to meet u", "location": "NotACountry"}
+{"name": "ZERO12\ud83c\uddff\ud83c\udde6", "location": "NotACountry"}
+{"name": "Disappoint", "location": "NotACountry"}
+{"name": "\u0928\u0947\u092a\u093e\u0932,\u0927\u093e\u0926\u093f\u0919,\u0927\u0941\u0928\u0940\u0935\u0947\u0938\u0940 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e", "location": "Nepal"}
+{"name": "\u0644\u0627\u06c1\u0648\u0631", "location": "Pakistan"}
+{"name": "Winnipeg", "location": "Canada"}
+{"name": "Manitoba", "location": "Canada"}
+{"name": "Rawalpindi", "location": "Pakistan"}
+{"name": "Seattle", "location": "United States"}
+{"name": "HI", "location": "United States"}
+{"name": "Little Rock", "location": "United States"}
+{"name": "Alabama", "location": "United States"}
+{"name": "\u5230\u8655", "location": "NotACountry"}
+{"name": "EVERYWHERE", "location": "NotACountry"}
+{"name": "\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646", "location": "Bahrain"}
+{"name": "Bahrain", "location": "Bahrain"}
+{"name": "Hiroshima", "location": "Japan"}
+{"name": "Dharwad", "location": "India"}
+{"name": "Goi\u00e1s", "location": "Brazil"}
+{"name": "Dibujando", "location": "NotACountry"}
+{"name": "888 KOPITIAM(SEARCH ON GOOGLE)", "location": "NotACountry"}
+{"name": "Gilligan\u2019s Island", "location": "United States"}
+{"name": "Grande Prairie", "location": "Canada"}
+{"name": "Dartmouth NS", "location": "Canada"}
+{"name": "Amman", "location": "Jordan"}
+{"name": "\u0410\u043c\u043c\u0430\u043d", "location": "Jordan"}
+{"name": "Playstation", "location": "NotACountry"}
+{"name": "Torino", "location": "Italy"}
+{"name": "Behind", "location": "NotACountry"}
+{"name": "Pluto", "location": "NotACountry"}
+{"name": "Santo Domingo", "location": "Dominican Rep."}
+{"name": "\u0627\u0644\u0643\u0648\u064a\u062a", "location": "Kuwait"}
+{"name": "Coventry", "location": "United Kingdom"}
+{"name": "Bogot\u00e1", "location": "Colombia"}
+{"name": "\u0646\u06cc\u0648\u06cc\u0627\u0631\u06a9", "location": "United States"}
+{"name": "Tianjin", "location": "China"}
+{"name": "Dar es salaam", "location": "Tanzania"}
+{"name": "rahimyar khan", "location": "Pakistan"}
+{"name": "Makati City", "location": "Philippines"}
+{"name": "El canal de la energ\u00eda", "location": "NotACountry"}
+{"name": "Armenia", "location": "Armenia"}
+{"name": "Mongolia", "location": "Mongolia"}
+{"name": "Vas Legas", "location": "NotACountry"}
+{"name": "Panam\u00e1", "location": "Panama"}
+{"name": "P\u00e1tria Grande", "location": "NotACountry"}
+{"name": "Malasia", "location": "Malaysia"}
+{"name": "qingdao", "location": "China"}
+{"name": "\u00dcT: 43.699918,10.393938", "location": "Italy"}
+{"name": "Italy", "location": "Italy"}
+{"name": "\u676d\u5dde", "location": "China"}
+{"name": "Pa\u00efsos Catalans", "location": "Spain"}
+{"name": "\u0906\u0930\u094d\u092f\u093e\u0935\u0930\u094d\u0924\u094d\u0924", "location": "India"}
+{"name": "\u53f0\u4e2d", "location": "China"}
+{"name": "Brussel", "location": "Belgium"}
+{"name": "Nevada", "location": "United States"}
+{"name": "n.y.", "location": "United States"}
+{"name": "Hell's Kitchen", "location": "United States"}
+{"name": "Ha\u00efti", "location": "Haiti"}
+{"name": "Haiti", "location": "Haiti"}
+{"name": "Alicante", "location": "Spain"}
+{"name": "Petrer", "location": "Spain"}
+{"name": "Qu\u00e9bec", "location": "Canada"}
+{"name": "America", "location": "NotACountry"}
+{"name": "UT", "location": "United States"}
+{"name": "Orem", "location": "United States"}
+{"name": "San Diego", "location": "United States"}
+{"name": "Bharatha Varsha", "location": "NotACountry"}
+{"name": "\u0110\u1ed3ng Nai", "location": "Vietnam"}
+{"name": "Long Th\u00e0nh", "location": "Vietnam"}
+{"name": "City of Man", "location": "NotACountry"}
+{"name": "Kizil Elma", "location": "NotACountry"}
+{"name": "https://", "location": "NotACountry"}
+{"name": "Kowloon", "location": "China"}
+{"name": "In my right mind", "location": "NotACountry"}
+{"name": "new zealand", "location": "New Zealand"}
+{"name": "\u300e\u30aa\u30c8\u30ca\u9053\u5834\u300f\uff5e\u767e\u4eba\u7d44\u624b\u304b\u3089\u306e\u4e09\u8005\u9762\u8ac7\u7de8 in \u30b6\u30d3\u30d3\u2193", "location": "Japan"}
+{"name": "Lva", "location": "NotACountry"}
+{"name": "Pierre Kaser", "location": "NotACountry"}
+{"name": "Smethwick", "location": "United Kingdom"}
+{"name": "Birmingham", "location": "United Kingdom"}
+{"name": "Satafrika", "location": "NotACountry"}
+{"name": "perth", "location": "Australia"}
+{"name": "australia", "location": "Australia"}
+{"name": "Trumpville", "location": "United States"}
+{"name": "shinee world", "location": "NotACountry"}
+{"name": "This Queer Carries 2ndAmend\ud83d\udc4d", "location": "NotACountry"}
+{"name": "\u30b9\u30c8\u30b7\u30b6\u6cbc", "location": "Japan"}
+{"name": "\u96f2\u306e\u4e0a", "location": "Japan"}
+{"name": "nevada", "location": "United States"}
+{"name": "california", "location": "United States"}
+{"name": "please", "location": "NotACountry"}
+{"name": "Santa Monica", "location": "United States"}
+{"name": "Cairo", "location": "Egypt"}
+{"name": "Istanbul", "location": "Turkey"}
+{"name": "Zamora", "location": "Spain"}
+{"name": "Harrietville", "location": "Australia"}
+{"name": "\u57fc\u7389", "location": "Japan"}
+{"name": "HongKong", "location": "China"}
+{"name": "Sant Joan de les Abadesses", "location": "Spain"}
+{"name": "\u81fa\u7063", "location": "China"}
+{"name": "IA", "location": "United States"}
+{"name": "Council Bluffs", "location": "United States"}
+{"name": "A red dot in a blue state", "location": "NotACountry"}
+{"name": "Universo", "location": "NotACountry"}
+{"name": "\u898b\u6edd", "location": "Japan"}
+{"name": "i've been a bad, bad, boy \u2192", "location": "NotACountry"}
+{"name": "HONG KONG", "location": "China"}
+{"name": "\u82ad\u6a02\u5c71", "location": "China"}
+{"name": "Qualityland", "location": "NotACountry"}
+{"name": "penn state", "location": "United States"}
+{"name": " hk ", "location": "China"}
+{"name": "Havertown", "location": "United States"}
+{"name": "indonesia", "location": "Indonesia"}
+{"name": "NNNNNN", "location": "NotACountry"}
+{"name": "islandddddd", "location": "NotACountry"}
+{"name": "African", "location": "NotACountry"}
+{"name": "ecuador", "location": "Ecuador"}
+{"name": "New hampshire", "location": "United States"}
+{"name": "JAMBI", "location": "Indonesia"}
+{"name": "My Site \ud83d\udc49\ud83c\udffb\ud83d\udc49\ud83c\udffb\ud83d\udc49\ud83c\udffb", "location": "NotACountry"}
+{"name": "Cordoba veracruz", "location": "Mexico"}
+{"name": "Los Angeels, Ca", "location": "United States"}
+{"name": "NNNNNNNNN", "location": "NotACountry"}
+{"name": "\u0648\u0637\u0646\u064a \u0644\u0627 \u0623\u0645\u0644\u0643 \u0641\u064a\u0647 \u0627\u0644\u062d\u0631\u064a\u0647 \u060c \u0643\u0648\u064a\u062a", "location": "NotACountry"}
+{"name": "Constitutional Republic", "location": "NotACountry"}
+{"name": "Missing you in Naboo", "location": "NotACountry"}
+{"name": "Louisiana", "location": "United States"}
+{"name": "taiwan", "location": "China"}
+{"name": "\u5bf6\u5b89\u5bae", "location": "China"}
+{"name": "Tasmania", "location": "Australia"}
+{"name": "Hobart", "location": "Australia"}
+{"name": "Flint", "location": "NotACountry"}
+{"name": "Arguing about the rain", "location": "NotACountry"}
+{"name": "Pilar, Bicol Region", "location": "Philippines"}
+{"name": "Around the corner", "location": "NotACountry"}
+{"name": "\u5317\u7def35\u5ea621\u520639\u79d2\u3001\u6771\u7d4c138\u5ea643\u520639", "location": "Japan"}
+{"name": "Hangover City", "location": "NotACountry"}
+{"name": "\u304a\u7a7a", "location": "Japan"}
+{"name": "yes", "location": "NotACountry"}
+{"name": " Varanasi. Bharat Mata Ki Jai.", "location": "India"}
+{"name": "Pennsylvania", "location": "United States"}
+{"name": "Beeston kings lynn", "location": "United Kingdom"}
+{"name": "Cincinnati", "location": "United States"}
+{"name": "internet!", "location": "NotACountry"}
+{"name": "Kansas", "location": "United States"}
+{"name": "Wichita", "location": "United States"}
+{"name": "Czech", "location": "Czech Rep."}
+{"name": "Prague", "location": "Czech Rep."}
+{"name": "\u30d3\u30b8\u30cd\u30b9\u4fdd\u5b88(\u53cd\u65e5\u53f3\u7ffc)\u3084\u53cd\u65e5\u5de6\u7ffc\u3082\u6ce8\u8996\u30ea\u30c4\u30a4\u3059\u308b\u6642\u6709\u308a", "location": "Japan"}
+{"name": "\u52a0\u5bc6\u62c9\u65af\u5e1d\u661f\u7e3d\u7d71\u5e9c", "location": "NotACountry"}
+{"name": "a world of my own", "location": "NotACountry"}
+{"name": "Land of the Free", "location": "NotACountry"}
+{"name": "22.348877,114.1946", "location": "China"}
+{"name": "The twiDAQ Investment Bank", "location": "NotACountry"}
+{"name": "\u00dcT: 34.40937,-118.556575", "location": "United States"}
+{"name": "kings county", "location": "United States"}
+{"name": "Zimbabwe", "location": "Zimbabwe"}
+{"name": "Bulawayo", "location": "Zimbabwe"}
+{"name": "Polska", "location": "Poland"}
+{"name": "Gda\u0144sk", "location": "Poland"}
+{"name": " ND", "location": "United States"}
+{"name": "Devils Lake", "location": "United States"}
+{"name": "Nightmares", "location": "NotACountry"}
+{"name": "Taiwna", "location": "China"}
+{"name": "www.", "location": "NotACountry"}
+{"name": "The Hague", "location": "Netherlands"}
+{"name": "Geneva", "location": "Switzerland"}
+{"name": "Telangana", "location": "India"}
+{"name": "Hyderabad", "location": "India"}
+{"name": "Secret", "location": "NotACountry"}
+{"name": "\u00d6sterreich", "location": "Austria"}
+{"name": "Salzburg", "location": "Austria"}
+{"name": "dehradun", "location": "India"}
+{"name": "Dehradun", "location": "India"}
+{"name": "Paradise", "location": "NotACountry"}
+{"name": "The North", "location": "NotACountry"}
+{"name": "under the sea", "location": "NotACountry"}
+{"name": "mexico df", "location": "Mexico"}
+{"name": "Equilibrium", "location": "NotACountry"}
+{"name": "East Coast", "location": "NotACountry"}
+{"name": "22.286202,114.22048", "location": "China"}
+{"name": "they/them ", "location": "NotACountry"}
+{"name": "Spice Harbour", "location": "NotACountry"}
+{"name": "Alta Villa", "location": "Switzerland"}
+{"name": "Northern Territory", "location": "Australia"}
+{"name": "Darwin", "location": "Australia"}
+{"name": "Metamorphosis", "location": "NotACountry"}
+{"name": "Ukraine", "location": "Ukraine"}
+{"name": "Anacortes", "location": "United States"}
+{"name": "Tampa Bay Area", "location": "United States"}
+{"name": "\u0628\u064a\u062a \u0633\u062a\u064a", "location": "NotACountry"}
+{"name": "Mississippi", "location": "United States"}
+{"name": "\u68ee\u306e\u4e2d", "location": "Japan"}
+{"name": "Citygate", "location": "NotACountry"}
+{"name": "Machangolhi", "location": "Maldives"}
+{"name": "medhu", "location": "Maldives"}
+{"name": "Home", "location": "NotACountry"}
+{"name": "\ud83c\udf0f", "location": "NotACountry"}
+{"name": "Charlottesville", "location": "United States"}
+{"name": "Je Vois Tout", "location": "NotACountry"}
+{"name": "Fussels Corner", "location": "United States"}
+{"name": "on saerans lap", "location": "NotACountry"}
+{"name": "area51", "location": "NotACountry"}
+{"name": "Annapolis", "location": "United States"}
+{"name": "MD", "location": "United States"}
+{"name": "\u901a\u5546\u5bec\u8863\u3001\u85a9\u683c\u723e\u738b\u3001\u760b\u72c2\u5b87\u5b99\u3001\u51b0\u90a6\u5916\u4ea4", "location": "China"}
+{"name": "tokyo", "location": "Japan"}
+{"name": "japan", "location": "Japan"}
+{"name": "22.278697,114.173586", "location": "China"}
+{"name": "\u1f08\u03b8\u1fc6\u03bd\u03b1\u03b9", "location": "Greece"}
+{"name": "\u6ca7\u6d77", "location": "China"}
+{"name": "Grand Bay, AL", "location": "United States"}
+{"name": "The Moon", "location": "NotACountry"}
+{"name": "N 53\u00b028' 0'' / W 2\u00b014' 0''", "location": "NotACountry"}
+{"name": "Russie", "location": "Russia"}
+{"name": "Moscou", "location": "Russia"}
+{"name": "T\u0159ebo\u0148", "location": "Czech Rep."}
+{"name": "\u010cesk\u00e1 republika", "location": "Czech Rep."}
+{"name": "KL", "location": "Malaysia"}
+{"name": "D.C. Area", "location": "United States"}
+{"name": "Moon", "location": "NotACountry"}
+{"name": "guess", "location": "NotACountry"}
+{"name": "\u516b\u738b\u5b50\u5e02", "location": "Japan"}
+{"name": "The Kingdom of God", "location": "NotACountry"}
+{"name": "Luxemburg", "location": "Luxembourg"}
+{"name": "Luxembourg", "location": "Luxembourg"}
+{"name": "Bay Area", "location": "United States"}
+{"name": "The Dark Ages", "location": "NotACountry"}
+{"name": "Montseny", "location": "Spain"}
+{"name": "Barcelona", "location": "Spain"}
+{"name": "Tucson", "location": "United States"}
+{"name": "Arizona", "location": "United States"}
+{"name": "Xanadu", "location": "China"}
+{"name": "\u540d\u53e4\u5c4b", "location": "Japan"}
+{"name": "\u79cb\u8449\u539f", "location": "Japan"}
+{"name": "the free city of braavos", "location": "NotACountry"}
+{"name": "\u2602", "location": "NotACountry"}
+{"name": "J&K", "location": "NotACountry"}
+{"name": "St John's Wood", "location": "United Kingdom"}
+{"name": "Roamin round Cali", "location": "NotACountry"}
+{"name": "nigeria", "location": "Nigeria"}
+{"name": "Kent", "location": "United Kingdom"}
+{"name": "Dartford", "location": "United Kingdom"}
+{"name": "Unknown", "location": "NotACountry"}
+{"name": "Weil am Rhein", "location": "Germany"}
+{"name": "Basel", "location": "Switzerland"}
+{"name": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629", "location": "Jordan"}
+{"name": "\u90fd\u5185\u591a\u6469\u5ddd\u4e2d\u6d41\u57df", "location": "Japan"}
+{"name": "Corner Brook", "location": "Canada"}
+{"name": "Pussy", "location": "NotACountry"}
+{"name": "\u0391\u03b8\u03ae\u03bd\u03b1", "location": "Greece"}
+{"name": "8964\u5929\u5b89\u9580\u4e8b\u4ef6", "location": "China"}
+{"name": "\u70cf\u5e72\u9054", "location": "Uganda"}
+{"name": "\u4fee\u7f85\u306e\u56fd\u306f\u81ea\u885b\u968a\u57fa\u5730\u8fd1\u304f\u4f4f\u307f\u3002\u30c5\u30e9\u3068\u5897\u6bdb\u306f\u4e00\u767a\u3067\u898b\u629c\u304f", "location": "Japan"}
+{"name": "Buckeye Nation", "location": "NotACountry"}
+{"name": "Edmonton", "location": "Canada"}
+{"name": "Donde debo estar.", "location": "NotACountry"}
+{"name": "\u7a7a\u306e\u4e16\u754c\u306e\u30c9\u771f\u3093\u4e2d", "location": "Japan"}
+{"name": "Huntin Wascally Wussians", "location": "NotACountry"}
+{"name": "Planet Hanyu", "location": "NotACountry"}
+{"name": "852", "location": "NotACountry"}
+{"name": "Dublin", "location": "Ireland"}
+{"name": "ktm", "location": "NotACountry"}
+{"name": "Usa", "location": "United States"}
+{"name": "New Orleans", "location": "United States"}
+{"name": "43.652435,-79.804705", "location": "Canada"}
+{"name": "Gulf Coast", "location": "United States"}
+{"name": "nsfw", "location": "NotACountry"}
+{"name": "\u5fc3\u306e\u4e2d", "location": "NotACountry"}
+{"name": "The Colonies", "location": "NotACountry"}
+{"name": "alamo", "location": "NotACountry"}
+{"name": "Napoli", "location": "Italy"}
+{"name": "Principality of Orange", "location": "NotACountry"}
+{"name": "Miami, Tallahassee, DC", "location": "United States"}
+{"name": "flyover country", "location": "NotACountry"}
+{"name": "ocd\u2022oor", "location": "NotACountry"}
+{"name": "dronfield derbyshire", "location": "United Kingdom"}
+{"name": "Always Next to Junho", "location": "NotACountry"}
+{"name": "DC Area", "location": "United States"}
+{"name": "in your spaghetti", "location": "NotACountry"}
+{"name": "In eine flasche", "location": "NotACountry"}
+{"name": "Croatia", "location": "Croatia"}
+{"name": "Taipei", "location": "China"}
+{"name": "'Murica!", "location": "NotACountry"}
+{"name": "Valdosta, Georgia", "location": "United States"}
+{"name": "cpop Stan - Star1 - X1", "location": "NotACountry"}
+{"name": "UC Berkeley 2020", "location": "NotACountry"}
+{"name": "\u5927\u7cb5\u6c11\u570b", "location": "China"}
+{"name": "my home", "location": "NotACountry"}
+{"name": "golden closet", "location": "NotACountry"}
+{"name": "Gamer,DAV.Minnesota", "location": "United States"}
+{"name": "Princeton", "location": "United States"}
+{"name": "a strange land", "location": "NotACountry"}
+{"name": "rubbish youth", "location": "NotACountry"}
+{"name": "Jaffa Port", "location": "Israel"}
+{"name": "Frozen borderland of the north", "location": "NotACountry"}
+{"name": "Saskatchewan", "location": "Canada"}
+{"name": "Regina", "location": "Canada"}
+{"name": "Peking", "location": "China"}
+{"name": "Owensboro", "location": "United States"}
+{"name": "KY", "location": "United States"}
+{"name": "Netiverse", "location": "NotACountry"}
+{"name": "NNNNNNNNNN", "location": "NotACountry"}
+{"name": "NNNNNNNNNNN", "location": "NotACountry"}
+{"name": "African", "location": "NotACountry"}
+{"name": "NNNNNNNNNNNN", "location": "NotACountry"}
+{"name": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440", "location": "Russia"}
+{"name": "Pochinki, Erangel", "location": "Russia"}
+{"name": "ESTRATOSFERA", "location": "NotACountry"}
+{"name": "\u6c34\u661f\u4e0b\u9762", "location": "NotACountry"}
+{"name": "Here", "location": "NotACountry"}
+{"name": "Norfolk, NE", "location": "United States"}
+{"name": "Fort Lauderdale", "location": "United States"}
+{"name": "Wonderland", "location": "NotACountry"}
+{"name": "North Africa", "location": "NotACountry"}
+{"name": "BaconLand", "location": "United States"}
+{"name": "\ud83d\ude80", "location": "NotACountry"}
+{"name": "At the Mountains of Madness", "location": "NotACountry"}
+{"name": "In Hoseok\u2019s world", "location": "NotACountry"}
+{"name": "\u5b64\u72ec\u306e\u30ec\u30f4\u30e5\u30fc", "location": "Japan"}
+{"name": "M78\u661f\u96f2", "location": "NotACountry"}
+{"name": "bangkok", "location": "Thailand"}
+{"name": "Al Norte del Sur", "location": "NotACountry"}
